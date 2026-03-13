@@ -1,0 +1,340 @@
+{
+    "name": "DRINKS (Cópia)",
+    "details": "",
+    "color": "#ff5722",
+    "open": true,
+    "type": "Normal",
+    "order": 258,
+    "image": "",
+    "show_in": {
+        "app": true,
+        "waiter": true,
+        "pdv": true,
+        "selfcheckout": true,
+        "tablet": true,
+        "totem": true
+    },
+    "availability": [],
+    "products": [
+        {
+            "name": "VANFAL FRUTAS VERMELHAS",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 22.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 1,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "STONE LIGHT - PINK LEMONADE",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 22.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 2,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "STONE LIGHT - PINK LEMONADE 0%",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 14.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 3,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "STONE LIGHT - GIN TROPICAL",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 22.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 4,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "STONE LITHT - MOJITO",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 22.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 5,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "APEROL SPRITZ",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 32.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 6,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "CAIPIRINHA",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 24.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 7,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "CAIPIVODKA",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 29.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 8,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "GIN TÔNICA",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 29.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 9,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "GIN COM ENERGETICO",
+            "category": "DRINKS (Cópia)",
+            "details": "",
+            "price": 31.9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 10,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        }
+    ]
+}
