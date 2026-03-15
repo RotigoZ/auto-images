@@ -1,1061 +1,1063 @@
 {
-  "bebidas": {
-    "agua mineral": {
-      "image": "https://suitablecontents.com/demoburger/1744375877469.webp",
-      "aliases": [
-        "agua sem gas",
-        "agua",
-        "agua mineral sem gas",
-        "agua sem gás",
-        "água sem gas",
-        "água sem gás"
-      ]
+    "bebidas": {
+      "agua mineral": {
+        "image": "https://suitablecontents.com/demoburger/1744375877469.webp",
+        "aliases": [
+          "agua sem gas",
+          "agua",
+          "agua mineral sem gas",
+          "agua sem gás",
+          "água sem gas",
+          "água sem gás"
+        ]
+      },
+      "agua com gas": {
+        "image": "https://suitablecontents.com/demoburger/1744375896193.webp",
+        "aliases": [
+          "agua c gas",
+          "agua gaseificada",
+          "agua com gás",
+          "água com gas",
+          "água com gás"
+        ]
+      },
+      "coca-cola lata": {
+        "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+        "aliases": [
+          "coca cola lata",
+          "coca-cola 350ml",
+          "coca cola 350ml",
+          "coca cola lata 350ml",
+          "coca-cola lata 350ml",
+          "coca lata",
+          "coca-cola 310ml",
+          "coca cola 310ml",
+          "coca-cola lata 310ml",
+          "coca cola lata 310ml",
+          "coca-cola",
+          "coca cola",
+          "co ca-cola lata 350ml",
+          "co ca cola lata 350ml",
+          "coca-cola lata 350 ml",
+          "coca cola lata 350 ml"
+        ]
+      },
+      "coca-cola zero lata": {
+        "image": "https://suitablecontents.com/demoburger/1744375987666.webp",
+        "aliases": [
+          "coca cola zero lata",
+          "coca-cola zero 350ml",
+          "coca cola zero 350ml",
+          "coca zero lata",
+          "coca zero 350ml",
+          "coca-cola zero",
+          "coca cola zero",
+          "coca cola zero lata 350ml",
+          "coca-cola zero lata 350ml",
+          "coca cola retornavel zero 290ml",
+          "coca-cola retornavel zero 290ml",
+          "coca-cola retornável zero 290ml",
+          "coca cola retornável zero 290ml",
+          "coca zero lata 220ml",
+          "coca-cola zero lata 220ml"
+        ]
+      },
+      "guarana antarctica lata": {
+        "image": "https://suitablecontents.com/demoburger/1744376039499.webp",
+        "aliases": [
+          "guarana antartica lata",
+          "guaraná antártica lata",
+          "guarana lata",
+          "guaraná lata",
+          "guarana antarctica 350ml",
+          "guaraná antarctica 350ml",
+          "guarana antartica 350ml",
+          "guaraná antártica 350ml",
+          "fanta guarana lata",
+          "fanta guaraná lata"
+        ]
+      },
+      "fanta uva lata": {
+        "image": "https://suitablecontents.com/demoburger/1744376090219.webp",
+        "aliases": [
+          "fanta uva",
+          "fanta uva 350ml",
+          "fanta uva lata 350ml"
+        ]
+      },
+      "fanta laranja lata": {
+        "image": "https://suitablecontents.com/demoburger/1744376127560.webp",
+        "aliases": [
+          "fanta laranja",
+          "fanta laranja 350ml",
+          "fanta laranja lata 350ml"
+        ]
+      },
+      "schweppes citrus": {
+        "image": "https://suitablecontents.com/demoburger/1744376187962.webp",
+        "aliases": [
+          "schweppes",
+          "schweppes lata",
+          "schweppes citrus lata",
+          "schweppes citrus 350ml"
+        ]
+      },
+      "tonica antarctica": {
+        "image": "https://suitablecontents.com/demoburger/1744376227726.webp",
+        "aliases": [
+          "tonica",
+          "tônica",
+          "agua tonica",
+          "água tônica",
+          "tonica antarctica",
+          "tônica antarctica",
+          "tonica antartica",
+          "tônica antártica",
+          "tonica 350ml",
+          "tônica 350ml"
+        ]
+      },
+      "coca-cola 600ml": {
+        "image": "https://suitablecontents.com/demoburger/1744376251219.webp",
+        "aliases": [
+          "coca cola 600ml",
+          "coca-cola 600",
+          "coca cola 600",
+          "refri 600 coca-cola",
+          "refri 600 coca cola"
+        ]
+      },
+      "coca-cola 1l": {
+        "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+        "aliases": [
+          "coca cola 1l",
+          "coca-cola 1 litro",
+          "coca cola 1 litro",
+          "coca 1l",
+          "coca 1lt",
+          "coca 1lts"
+        ]
+      },
+      "guarana antarctica 1l": {
+        "image": "https://suitablecontents.com/demoburger/1744376315064.webp",
+        "aliases": [
+          "guarana antarctica 1l",
+          "guaraná antártica 1l",
+          "guarana 1l",
+          "guaraná 1l"
+        ]
+      },
+      "guarana antarctica 2l": {
+        "image": "https://suitablecontents.com/demoburger/1744376337013.webp",
+        "aliases": [
+          "guarana antarctica 2l",
+          "guaraná antártica 2l",
+          "guarana 2l",
+          "guaraná 2l",
+          "refri 2 litros guarana",
+          "refri 2 litros guaraná"
+        ]
+      },
+      "refri lata 350ml": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316427754.webp",
+        "aliases": [
+          "refrigerante lata 350ml",
+          "refri lata",
+          "refrigerante lata"
+        ]
+      },
+      "refri 600ml": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316442043.webp",
+        "aliases": [
+          "refrigerante 600ml",
+          "refri 600",
+          "refrigerante 600"
+        ]
+      },
+      "refri 2 litros guarana": {
+        "image": "https://suitablecontents.com/pointaguasclaras/3qnqnvi6dk3.webp",
+        "aliases": [
+          "refrigerante 2 litros guarana",
+          "refrigerante 2 litros guaraná",
+          "guarana 2 litros",
+          "guaraná 2 litros"
+        ]
+      },
+      "refri 2 litros coca-cola": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316460092.webp",
+        "aliases": [
+          "refrigerante 2 litros coca-cola",
+          "refrigerante 2 litros coca cola",
+          "coca cola 2 litros",
+          "coca-cola 2 litros",
+          "coca 2l",
+          "coca-cola 2l"
+        ]
+      },
+      "aquarios ou h2o": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316493022.webp",
+        "aliases": [
+          "aquarios",
+          "h2o",
+          "h2oh",
+          "h2o limao",
+          "h2o limão",
+          "aquarios limao",
+          "aquarios limão"
+        ]
+      },
+      "suco del valle": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317159935.webp",
+        "aliases": [
+          "del valle",
+          "suco delvalle",
+          "suco dell valle",
+          "suco del valle lata",
+          "suco del valle 290ml",
+          "suco de uva dell vale 290ml",
+          "suco de uva del valle 290ml"
+        ]
+      }
     },
-    "agua com gas": {
-      "image": "https://suitablecontents.com/demoburger/1744375896193.webp",
-      "aliases": [
-        "agua c gas",
-        "agua gaseificada",
-        "agua com gás",
-        "água com gas",
-        "água com gás"
-      ]
+    "cervejas": {
+      "heineken long neck": {
+        "image": "https://suitablecontents.com/sagradobc/1sxl1jk1y52.webp",
+        "aliases": [
+          "heineken ln",
+          "heineken 330ml",
+          "heineken longneck",
+          "heineken long neck 330ml",
+          "151 - heneiken",
+          "151 - heineken",
+          "heineken"
+        ]
+      },
+      "heineken zero long neck": {
+        "image": "https://suitablecontents.com/sagradobc/nto2y6kobl3.webp",
+        "aliases": [
+          "heineken zero",
+          "heineken 0.0",
+          "heineken 0.0%",
+          "heineken zero 330ml",
+          "heineken zero long neck 330ml",
+          "152 - heineken zero"
+        ]
+      },
+      "corona long neck": {
+        "image": "https://suitablecontents.com/sagradobc/5hsz4nt3g41.webp",
+        "aliases": [
+          "corona",
+          "corona 330ml",
+          "corona longneck",
+          "corona long neck 330ml",
+          "150 - corona",
+          "cerveja long neck corona 330ml"
+        ]
+      },
+      "budweiser long neck": {
+        "image": "https://suitablecontents.com/demoburger/1744376582846.webp",
+        "aliases": [
+          "budweiser",
+          "bud long neck",
+          "budweiser 330ml",
+          "budweiser longneck"
+        ]
+      },
+      "eisenbahn long neck": {
+        "image": "https://suitablecontents.com/sagradobc/cm3keuolgv4.webp",
+        "aliases": [
+          "eisenbahn",
+          "eisenbahn 330ml",
+          "eisenbahn longneck",
+          "153 - eisenbahn"
+        ]
+      },
+      "sol long neck": {
+        "image": "https://suitablecontents.com/sagradobc/ey5rk994p25.webp",
+        "aliases": [
+          "sol",
+          "sol 330ml",
+          "sol longneck",
+          "154 - sol"
+        ]
+      },
+      "heineken 600ml": {
+        "image": "https://suitablecontents.com/sagradobc/1772542632663.webp",
+        "aliases": [
+          "heineken 600",
+          "cerveja 600ml heineken",
+          "heineken garrafa 600ml",
+          "heineken 600 ml"
+        ]
+      },
+      "brahma chopp 600ml": {
+        "image": "https://suitablecontents.com/sagradobc/1772542658594.webp",
+        "aliases": [
+          "brahma 600ml",
+          "brahma chopp 600",
+          "brahma 600"
+        ]
+      },
+      "eisenbahn 600ml": {
+        "image": "https://suitablecontents.com/sagradobc/1772542691262.webp",
+        "aliases": [
+          "eisenbahn 600",
+          "eisenbahn 600 ml"
+        ]
+      },
+      "amstel 600ml": {
+        "image": "https://suitablecontents.com/sagradobc/1772542718691.webp",
+        "aliases": [
+          "amstel 600",
+          "amstel 600 ml"
+        ]
+      },
+      "brahma 1l": {
+        "image": "https://suitablecontents.com/demoburger/1744376623373.webp",
+        "aliases": [
+          "brahma 1 litro",
+          "brahma 1l garrafa"
+        ]
+      },
+      "original 1l": {
+        "image": "https://suitablecontents.com/demoburger/1744376654992.webp",
+        "aliases": [
+          "original 1 litro",
+          "original 1l garrafa"
+        ]
+      },
+      "cerveja lata zero": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316704531.webp",
+        "aliases": [
+          "cerveja zero lata",
+          "lata zero",
+          "cerveja sem alcool lata",
+          "cerveja sem álcool lata"
+        ]
+      },
+      "cerveja latao schin": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316562470.webp",
+        "aliases": [
+          "cerveja latão schin",
+          "schin latao",
+          "schin latão",
+          "cerveja latão skin",
+          "cerveja latao skin"
+        ]
+      },
+      "cerveja latao polar": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316589546.webp",
+        "aliases": [
+          "cerveja latão polar",
+          "polar latao",
+          "polar latão"
+        ]
+      },
+      "cerveja latao skol": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316636859.webp",
+        "aliases": [
+          "cerveja latão skol",
+          "skol latao",
+          "skol latão"
+        ]
+      },
+      "cerveja latao heineken": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316658428.webp",
+        "aliases": [
+          "cerveja latão heineken",
+          "heineken latão",
+          "heineken latao"
+        ]
+      },
+      "long neck": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316678241.webp",
+        "aliases": [
+          "long",
+          "longneck",
+          "cerveja long neck"
+        ]
+      },
+      "cerveja litrao": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317104851.webp",
+        "aliases": [
+          "cerveja litrão",
+          "litrao",
+          "litrão",
+          "garrafa 1l cerveja"
+        ]
+      },
+      "cerveja litrao budweiser": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317122867.webp",
+        "aliases": [
+          "cerveja litrão budweiser",
+          "budweiser litrão",
+          "budweiser litrao"
+        ]
+      }
     },
-    "coca-cola lata": {
-      "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-      "aliases": [
-        "coca cola lata",
-        "coca-cola 350ml",
-        "coca cola 350ml",
-        "coca cola lata 350ml",
-        "coca-cola lata 350ml",
-        "coca lata",
-        "coca-cola 310ml",
-        "coca cola 310ml",
-        "coca-cola lata 310ml",
-        "coca cola lata 310ml",
-        "coca-cola",
-        "coca cola",
-        "co ca-cola lata 350ml",
-        "co ca cola lata 350ml",
-        "coca-cola lata 350 ml",
-        "coca cola lata 350 ml"
-      ]
+    "chope": {
+      "chopp de vinho": {
+        "image": "https://suitablecontents.com/sagradobc/1772542313646.webp",
+        "aliases": [
+          "chope de vinho",
+          "chopp vinho"
+        ]
+      },
+      "chopp pilsen 400ml": {
+        "image": "https://suitablecontents.com/sagradobc/1772542299161.webp",
+        "aliases": [
+          "chope pilsen 400ml",
+          "chopp pilsen 400",
+          "pilsen 400ml"
+        ]
+      },
+      "chopp pilsen 600ml": {
+        "image": "https://suitablecontents.com/sagradobc/1772542283813.webp",
+        "aliases": [
+          "chope pilsen 600ml",
+          "chopp pilsen 600",
+          "pilsen 600ml"
+        ]
+      },
+      "chopp torre 3l": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316509979.webp",
+        "aliases": [
+          "chope torre 3l",
+          "torre 3l",
+          "chopp torre 3000ml"
+        ]
+      },
+      "chopp torre 2l": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316517816.webp",
+        "aliases": [
+          "chope torre 2l",
+          "torre 2l",
+          "chopp torre 2000ml"
+        ]
+      },
+      "chopp caneca": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316526180.webp",
+        "aliases": [
+          "chope caneca",
+          "caneca de chopp",
+          "caneca de chope"
+        ]
+      }
     },
-    "coca-cola zero lata": {
-      "image": "https://suitablecontents.com/demoburger/1744375987666.webp",
-      "aliases": [
-        "coca cola zero lata",
-        "coca-cola zero 350ml",
-        "coca cola zero 350ml",
-        "coca zero lata",
-        "coca zero 350ml",
-        "coca-cola zero",
-        "coca cola zero",
-        "coca cola zero lata 350ml",
-        "coca-cola zero lata 350ml",
-        "coca cola retornavel zero 290ml",
-        "coca-cola retornavel zero 290ml",
-        "coca-cola retornável zero 290ml",
-        "coca cola retornável zero 290ml",
-        "coca zero lata 220ml",
-        "coca-cola zero lata 220ml"
-      ]
+    "energeticos": {
+      "red bull 250ml": {
+        "image": "https://suitablecontents.com/sagradobc/dghwd406831.webp",
+        "aliases": [
+          "red bull lata 250ml",
+          "red bull lata",
+          "energetico red bull lata",
+          "energético red bull lata",
+          "200 - red bull (250ml)",
+          "red bull 250",
+          "energetico red bull"
+        ]
+      },
+      "red bull latao": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316758859.webp",
+        "aliases": [
+          "energetico red bull latao",
+          "energético red bull latão",
+          "red bull latão",
+          "red bull latao"
+        ]
+      },
+      "monster 269ml": {
+        "image": "https://suitablecontents.com/sagradobc/n5krkoowva2.webp",
+        "aliases": [
+          "monster 269",
+          "monster lata 269ml",
+          "201 - monster (269ml)"
+        ]
+      },
+      "monster 473ml": {
+        "image": "https://suitablecontents.com/sagradobc/pwbni0f1fn3.webp",
+        "aliases": [
+          "monster 473",
+          "monster latão",
+          "monster latao",
+          "202 - monster (473ml)",
+          "energetico monster latao",
+          "energético monster latão"
+        ]
+      },
+      "gelo de coco": {
+        "image": "https://suitablecontents.com/sagradobc/y6pbv4xtib4.webp",
+        "aliases": [
+          "203 - gelo de coco"
+        ]
+      },
+      "energetico baly 2lts": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316731127.webp",
+        "aliases": [
+          "energético baly 2lts",
+          "baly 2lts",
+          "baly 2 litros",
+          "energetico baly 2 litros"
+        ]
+      }
     },
-    "guarana antarctica lata": {
-      "image": "https://suitablecontents.com/demoburger/1744376039499.webp",
-      "aliases": [
-        "guarana antartica lata",
-        "guaraná antártica lata",
-        "guarana lata",
-        "guaraná lata",
-        "guarana antarctica 350ml",
-        "guaraná antarctica 350ml",
-        "guarana antartica 350ml",
-        "guaraná antártica 350ml",
-        "fanta guarana lata",
-        "fanta guaraná lata"
-      ]
+    "drinks": {
+      "gin tonica": {
+        "image": "https://suitablecontents.com/sagradobc/1772543679043.webp",
+        "aliases": [
+          "gin tônica",
+          "gin tonic",
+          "gin com tonica",
+          "gin com tônica"
+        ]
+      },
+      "gin tropical": {
+        "image": "https://suitablecontents.com/sagradobc/1772543745845.webp",
+        "aliases": [
+          "gin tropical laranja",
+          "stone light - gin tropical"
+        ]
+      },
+      "gin morango": {
+        "image": "https://suitablecontents.com/sagradobc/1772543756687.webp",
+        "aliases": [
+          "gin tônica morango"
+        ]
+      },
+      "caipira cachaca": {
+        "image": "https://suitablecontents.com/sagradobc/1772543801301.webp",
+        "aliases": [
+          "caipira cachaça",
+          "caipirinha",
+          "caipira",
+          "caipirinha cachaca",
+          "caipirinha cachaça"
+        ]
+      },
+      "caipira saquerinha": {
+        "image": "https://suitablecontents.com/sagradobc/1772543813713.webp",
+        "aliases": [
+          "caipisaque",
+          "caipisaquê",
+          "caipisake",
+          "caipisakê",
+          "caipirinha de saquê",
+          "caipirinha de sake",
+          "caipirinha de saquerinha"
+        ]
+      },
+      "caipira vodka": {
+        "image": "https://suitablecontents.com/sagradobc/1772543826112.webp",
+        "aliases": [
+          "caipivodka",
+          "caipira vodca",
+          "caipirinha de vodka"
+        ]
+      },
+      "caipira vinho": {
+        "image": "https://suitablecontents.com/sagradobc/1772543843215.webp",
+        "aliases": [
+          "caipivinho",
+          "caipira de vinho"
+        ]
+      },
+      "soda morango": {
+        "image": "https://suitablecontents.com/sagradobc/1772544146454.webp",
+        "aliases": [
+          "soda italiana morango"
+        ]
+      },
+      "soda limao siciliano": {
+        "image": "https://suitablecontents.com/sagradobc/1772544139540.webp",
+        "aliases": [
+          "soda limão siciliano",
+          "soda italiana limao siciliano",
+          "soda italiana limão siciliano"
+        ]
+      },
+      "soda maca verde": {
+        "image": "https://suitablecontents.com/sagradobc/1772544073481.webp",
+        "aliases": [
+          "soda maça verde",
+          "soda maçã verde",
+          "soda italiana maca verde",
+          "soda italiana maçã verde"
+        ]
+      },
+      "soda grenadine": {
+        "image": "https://suitablecontents.com/sagradobc/1772544123678.webp",
+        "aliases": [
+          "soda italiana grenadine"
+        ]
+      },
+      "moscow mule": {
+        "image": "https://suitablecontents.com/sagradobc/1772545430911.webp",
+        "aliases": []
+      },
+      "cuba libre": {
+        "image": "https://suitablecontents.com/sagradobc/1772545449675.webp",
+        "aliases": []
+      },
+      "mojito": {
+        "image": "https://suitablecontents.com/sagradobc/1772545514736.webp",
+        "aliases": [
+          "stone light - mojito",
+          "stone litht - mojito"
+        ]
+      },
+      "pina colada": {
+        "image": "https://suitablecontents.com/sagradobc/1772545540155.webp",
+        "aliases": [
+          "piña colada"
+        ]
+      },
+      "alexander": {
+        "image": "https://suitablecontents.com/sagradobc/1772545687001.webp",
+        "aliases": []
+      },
+      "sex on the beach": {
+        "image": "https://suitablecontents.com/sagradobc/1772545557473.webp",
+        "aliases": []
+      },
+      "negroni": {
+        "image": "https://suitablecontents.com/sagradobc/1772545570979.webp",
+        "aliases": [
+          "negroni classic"
+        ]
+      },
+      "aperol spritz": {
+        "image": "https://suitablecontents.com/sagradobc/1772545582653.webp",
+        "aliases": [
+          "aperol spritz"
+        ]
+      },
+      "lagoa azul": {
+        "image": "https://suitablecontents.com/sagradobc/1772545594503.webp",
+        "aliases": []
+      },
+      "ceu azul de balneario": {
+        "image": "https://suitablecontents.com/sagradobc/1772545607422.webp",
+        "aliases": [
+          "céu azul de balneário"
+        ]
+      },
+      "capeta morango": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316915813.webp",
+        "aliases": []
+      },
+      "capeta abacaxi": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317039503.webp",
+        "aliases": []
+      },
+      "smirnoff ice": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316888312.webp",
+        "aliases": []
+      }
     },
-    "fanta uva lata": {
-      "image": "https://suitablecontents.com/demoburger/1744376090219.webp",
-      "aliases": [
-        "fanta uva",
-        "fanta uva 350ml",
-        "fanta uva lata 350ml"
-      ]
+    "sucos": {
+      "suco laranja": {
+        "image": "https://suitablecontents.com/sagradobc/1772544231153.webp",
+        "aliases": [
+          "suco de laranja"
+        ]
+      },
+      "suco limao": {
+        "image": "https://suitablecontents.com/sagradobc/1772544251286.webp",
+        "aliases": [
+          "suco limão",
+          "suco de limão"
+        ]
+      },
+      "suco morango": {
+        "image": "https://suitablecontents.com/sagradobc/1772544285739.webp",
+        "aliases": [
+          "suco de morango"
+        ]
+      },
+      "suco maracuja": {
+        "image": "https://suitablecontents.com/sagradobc/1772544313847.webp",
+        "aliases": [
+          "suco maracujá",
+          "suco de maracujá"
+        ]
+      },
+      "suco abacaxi": {
+        "image": "https://suitablecontents.com/sagradobc/1772544346680.webp",
+        "aliases": [
+          "suco de abacaxi"
+        ]
+      }
     },
-    "fanta laranja lata": {
-      "image": "https://suitablecontents.com/demoburger/1744376127560.webp",
-      "aliases": [
-        "fanta laranja",
-        "fanta laranja 350ml",
-        "fanta laranja lata 350ml"
-      ]
+    "vodkas_e_doses": {
+      "smirnoff dose": {
+        "image": "https://suitablecontents.com/sagradobc/1772542932885.webp",
+        "aliases": [
+          "smirnoff - dose",
+          "dose de smirnoff"
+        ]
+      },
+      "smirnoff combo": {
+        "image": "https://suitablecontents.com/sagradobc/1772542987458.webp",
+        "aliases": [
+          "smirnoff - combo"
+        ]
+      },
+      "absolut dose": {
+        "image": "https://suitablecontents.com/sagradobc/1772543012862.webp",
+        "aliases": [
+          "absolut - dose",
+          "dose de absolut"
+        ]
+      },
+      "absolut combo": {
+        "image": "https://suitablecontents.com/sagradobc/1772543043808.webp",
+        "aliases": [
+          "absolut - combo"
+        ]
+      },
+      "grey goose dose": {
+        "image": "https://suitablecontents.com/sagradobc/1772543078397.webp",
+        "aliases": [
+          "grey goose - dose",
+          "dose de grey goose"
+        ]
+      },
+      "grey goose combo": {
+        "image": "https://suitablecontents.com/sagradobc/1772543139488.webp",
+        "aliases": [
+          "grey goose - combo"
+        ]
+      },
+      "whiski dose": {
+        "image": "https://suitablecontents.com/pointaguasclaras/9j7gocyj6v24.webp",
+        "aliases": [
+          "whisky dose",
+          "whiski dose",
+          "dose de whisky",
+          "dose de whiski"
+        ]
+      },
+      "whiski": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316825581.webp",
+        "aliases": [
+          "whisky",
+          "garrafa de whisky",
+          "garrafa de whiski"
+        ]
+      }
     },
-    "schweppes citrus": {
-      "image": "https://suitablecontents.com/demoburger/1744376187962.webp",
-      "aliases": [
-        "schweppes",
-        "schweppes lata",
-        "schweppes citrus lata",
-        "schweppes citrus 350ml"
-      ]
+    "pratos": {
+      "bife a parmegiana": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773318704925.webp",
+        "aliases": [
+          "bife à parmegiana"
+        ]
+      },
+      "bife com fritas": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773318741072.webp",
+        "aliases": []
+      },
+      "a milanesa": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773318775870.webp",
+        "aliases": [
+          "à milanesa"
+        ]
+      },
+      "prato feito": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773318796016.webp",
+        "aliases": [
+          "pf",
+          "prato-feito"
+        ]
+      },
+      "prato feito a milanesa": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773318804154.webp",
+        "aliases": [
+          "prato feito à milanesa"
+        ]
+      },
+      "prato feito peixe": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773318826605.webp",
+        "aliases": [
+          "prato feito de peixe"
+        ]
+      }
     },
-    "tonica antarctica": {
-      "image": "https://suitablecontents.com/demoburger/1744376227726.webp",
-      "aliases": [
-        "tonica",
-        "tônica",
-        "agua tonica",
-        "água tônica",
-        "tonica antarctica",
-        "tônica antarctica",
-        "tonica antartica",
-        "tônica antártica",
-        "tonica 350ml",
-        "tônica 350ml"
-      ]
+    "fritas": {
+      "torre de batata": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773248255054.webp",
+        "aliases": []
+      },
+      "fritas sem queijo": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317253103.webp",
+        "aliases": [
+          "batata frita",
+          "porcao de batata frita",
+          "porção de batata frita",
+          "batata frita simples"
+        ]
+      },
+      "fritas com queijo": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317338995.webp",
+        "aliases": [
+          "batata frita com queijo"
+        ]
+      },
+      "1/2 porcao com queijo": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317349436.webp",
+        "aliases": [
+          "1/2 porção com queijo",
+          "meia porcao com queijo",
+          "meia porção com queijo"
+        ]
+      },
+      "porcao de fritas": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317384393.webp",
+        "aliases": [
+          "porção de fritas",
+          "fritas cheddar e bacon 300g"
+        ]
+      },
+      "1/2 porcao de fritas": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317395873.webp",
+        "aliases": [
+          "1/2 porção de fritas",
+          "meia porcao de fritas",
+          "meia porção de fritas"
+        ]
+      },
+      "batata mix": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317406663.webp",
+        "aliases": []
+      },
+      "fritas p": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317427747.webp",
+        "aliases": [
+          "batata p",
+          "fritas pequena"
+        ]
+      },
+      "fritas p com queijo": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317451404.webp",
+        "aliases": [
+          "batata p com queijo",
+          "fritas pequena com queijo",
+          "fritas no xis com queijo"
+        ]
+      },
+      "fritas no xis": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773317427747.webp",
+        "aliases": [
+          "fritaas no xis",
+          "batata no xis"
+        ]
+      }
     },
-    "coca-cola 600ml": {
-      "image": "https://suitablecontents.com/demoburger/1744376251219.webp",
-      "aliases": [
-        "coca cola 600ml",
-        "coca-cola 600",
-        "coca cola 600",
-        "refri 600 coca-cola",
-        "refri 600 coca cola"
-      ]
+    "xis": {
+      "xis carne": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315453070.webp",
+        "aliases": []
+      },
+      "xis frango": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315466267.webp",
+        "aliases": []
+      },
+      "xis calabresa": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315483411.webp",
+        "aliases": []
+      },
+      "xis bacon": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315424058.webp",
+        "aliases": []
+      },
+      "xis quatro queijos": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315532114.webp",
+        "aliases": [
+          "xis 4 queijos"
+        ]
+      },
+      "xis lombo": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315558553.webp",
+        "aliases": []
+      },
+      "xis vegetariano": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315608690.webp",
+        "aliases": []
+      },
+      "xis coracao": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315646986.webp",
+        "aliases": [
+          "xis coração"
+        ]
+      },
+      "xis bagunca": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315703181.webp",
+        "aliases": [
+          "xis bagunça"
+        ]
+      },
+      "xis strogonoff": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315723114.webp",
+        "aliases": []
+      },
+      "xis picanha": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315749588.webp",
+        "aliases": []
+      },
+      "xis fricasse": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315834289.webp",
+        "aliases": [
+          "xis fricassê"
+        ]
+      },
+      "xis file": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315873970.webp",
+        "aliases": [
+          "xis filé"
+        ]
+      },
+      "file ao molho madeira": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315931220.webp",
+        "aliases": [
+          "filé ao molho madeira"
+        ]
+      },
+      "file acebolado": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773315951107.webp",
+        "aliases": [
+          "filé acebolado"
+        ]
+      },
+      "xis baguncao": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316006768.webp",
+        "aliases": [
+          "xis bagunção"
+        ]
+      },
+      "xis acebolado": {
+        "image": "https://suitablecontents.com/pointaguasclaras/1773316087518.webp",
+        "aliases": []
+      }
     },
-    "coca-cola 1l": {
-      "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-      "aliases": [
-        "coca cola 1l",
-        "coca-cola 1 litro",
-        "coca cola 1 litro",
-        "coca 1l"
-      ]
+    "burgers": {
+      "bacon": {
+        "image": "https://suitablecontents.com/sagradobc/yuihbs3e8q2.webp",
+        "aliases": []
+      },
+      "cebola caramelizada": {
+        "image": "https://suitablecontents.com/sagradobc/q14oq2lxdt5.webp",
+        "aliases": []
+      },
+      "hamburguer extra": {
+        "image": "https://suitablecontents.com/sagradobc/dds2bjqghg1.webp",
+        "aliases": [
+          "hambúrguer extra"
+        ]
+      },
+      "molho extra": {
+        "image": "https://suitablecontents.com/sagradobc/icnu3k3z5a6.webp",
+        "aliases": []
+      },
+      "queijo cheddar": {
+        "image": "https://suitablecontents.com/sagradobc/vsk2050nnv3.webp",
+        "aliases": [
+          "cheddar",
+          "queijo chedar"
+        ]
+      },
+      "queijo mussarela": {
+        "image": "https://suitablecontents.com/sagradobc/tg8uke5te94.webp",
+        "aliases": [
+          "mussarela",
+          "muçarela",
+          "queijo muçarela"
+        ]
+      }
     },
-    "guarana antarctica 1l": {
-      "image": "https://suitablecontents.com/demoburger/1744376315064.webp",
-      "aliases": [
-        "guarana antarctica 1l",
-        "guaraná antártica 1l",
-        "guarana 1l",
-        "guaraná 1l"
-      ]
+    "complementos": {
+      "alface": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122646797.webp",
+        "aliases": []
+      },
+      "anel de cebola": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122659933.webp",
+        "aliases": [
+          "aneis de cebola",
+          "anéis de cebola",
+          "anel cebola"
+        ]
+      },
+      "bacon": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122670779.webp",
+        "aliases": []
+      },
+      "brocolis": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122684448.webp",
+        "aliases": [
+          "brócolis"
+        ]
+      },
+      "calabresa": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122694425.webp",
+        "aliases": []
+      },
+      "carne": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122710016.webp",
+        "aliases": [
+          "hamburguer",
+          "hambúrguer",
+          "hamburger"
+        ]
+      },
+      "catupiry": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122718551.webp",
+        "aliases": []
+      },
+      "cebola roxa": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122726639.webp",
+        "aliases": []
+      },
+      "cheddar": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122734605.webp",
+        "aliases": [
+          "queijo cheddar"
+        ]
+      },
+      "costela": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122748525.webp",
+        "aliases": []
+      },
+      "frango": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122768975.webp",
+        "aliases": []
+      },
+      "maionese": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122800669.webp",
+        "aliases": [
+          "maionese extra"
+        ]
+      },
+      "ketchup": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122810093.webp",
+        "aliases": [
+          "catchup"
+        ]
+      },
+      "mostarda": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122830497.webp",
+        "aliases": []
+      },
+      "ovo": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122838160.webp",
+        "aliases": []
+      },
+      "tomate": {
+        "image": "https://suitablecontents.com/custelaburguerhouse/1772122846566.webp",
+        "aliases": []
+      }
     },
-    "guarana antarctica 2l": {
-      "image": "https://suitablecontents.com/demoburger/1744376337013.webp",
-      "aliases": [
-        "guarana antarctica 2l",
-        "guaraná antártica 2l",
-        "guarana 2l",
-        "guaraná 2l",
-        "refri 2 litros guarana",
-        "refri 2 litros guaraná"
-      ]
-    },
-    "refri lata 350ml": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316427754.webp",
-      "aliases": [
-        "refrigerante lata 350ml",
-        "refri lata",
-        "refrigerante lata"
-      ]
-    },
-    "refri 600ml": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316442043.webp",
-      "aliases": [
-        "refrigerante 600ml",
-        "refri 600",
-        "refrigerante 600"
-      ]
-    },
-    "refri 2 litros guarana": {
-      "image": "https://suitablecontents.com/pointaguasclaras/3qnqnvi6dk3.webp",
-      "aliases": [
-        "refrigerante 2 litros guarana",
-        "refrigerante 2 litros guaraná",
-        "guarana 2 litros",
-        "guaraná 2 litros"
-      ]
-    },
-    "refri 2 litros coca-cola": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316460092.webp",
-      "aliases": [
-        "refrigerante 2 litros coca-cola",
-        "refrigerante 2 litros coca cola",
-        "coca cola 2 litros",
-        "coca-cola 2 litros",
-        "coca 2l",
-        "coca-cola 2l"
-      ]
-    },
-    "aquarios ou h2o": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316493022.webp",
-      "aliases": [
-        "aquarios",
-        "h2o",
-        "h2oh",
-        "h2o limao",
-        "h2o limão",
-        "aquarios limao",
-        "aquarios limão"
-      ]
-    },
-    "suco del valle": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317159935.webp",
-      "aliases": [
-        "del valle",
-        "suco delvalle",
-        "suco dell valle",
-        "suco del valle lata",
-        "suco del valle 290ml",
-        "suco de uva dell vale 290ml",
-        "suco de uva del valle 290ml"
-      ]
+    "regras": {
+      "dose_default": "https://suitablecontents.com/sagradobc/1772542932885.webp",
+      "shot_default": "https://suitablecontents.com/sagradobc/1772542932885.webp"
     }
-  },
-  "cervejas": {
-    "heineken long neck": {
-      "image": "https://suitablecontents.com/sagradobc/1sxl1jk1y52.webp",
-      "aliases": [
-        "heineken ln",
-        "heineken 330ml",
-        "heineken longneck",
-        "heineken long neck 330ml",
-        "151 - heneiken",
-        "151 - heineken",
-        "heineken"
-      ]
-    },
-    "heineken zero long neck": {
-      "image": "https://suitablecontents.com/sagradobc/nto2y6kobl3.webp",
-      "aliases": [
-        "heineken zero",
-        "heineken 0.0",
-        "heineken 0.0%",
-        "heineken zero 330ml",
-        "heineken zero long neck 330ml",
-        "152 - heineken zero"
-      ]
-    },
-    "corona long neck": {
-      "image": "https://suitablecontents.com/sagradobc/5hsz4nt3g41.webp",
-      "aliases": [
-        "corona",
-        "corona 330ml",
-        "corona longneck",
-        "corona long neck 330ml",
-        "150 - corona",
-        "cerveja long neck corona 330ml"
-      ]
-    },
-    "budweiser long neck": {
-      "image": "https://suitablecontents.com/demoburger/1744376582846.webp",
-      "aliases": [
-        "budweiser",
-        "bud long neck",
-        "budweiser 330ml",
-        "budweiser longneck"
-      ]
-    },
-    "eisenbahn long neck": {
-      "image": "https://suitablecontents.com/sagradobc/cm3keuolgv4.webp",
-      "aliases": [
-        "eisenbahn",
-        "eisenbahn 330ml",
-        "eisenbahn longneck",
-        "153 - eisenbahn"
-      ]
-    },
-    "sol long neck": {
-      "image": "https://suitablecontents.com/sagradobc/ey5rk994p25.webp",
-      "aliases": [
-        "sol",
-        "sol 330ml",
-        "sol longneck",
-        "154 - sol"
-      ]
-    },
-    "heineken 600ml": {
-      "image": "https://suitablecontents.com/sagradobc/1772542632663.webp",
-      "aliases": [
-        "heineken 600",
-        "cerveja 600ml heineken",
-        "heineken garrafa 600ml",
-        "heineken 600 ml"
-      ]
-    },
-    "brahma chopp 600ml": {
-      "image": "https://suitablecontents.com/sagradobc/1772542658594.webp",
-      "aliases": [
-        "brahma 600ml",
-        "brahma chopp 600",
-        "brahma 600"
-      ]
-    },
-    "eisenbahn 600ml": {
-      "image": "https://suitablecontents.com/sagradobc/1772542691262.webp",
-      "aliases": [
-        "eisenbahn 600",
-        "eisenbahn 600 ml"
-      ]
-    },
-    "amstel 600ml": {
-      "image": "https://suitablecontents.com/sagradobc/1772542718691.webp",
-      "aliases": [
-        "amstel 600",
-        "amstel 600 ml"
-      ]
-    },
-    "brahma 1l": {
-      "image": "https://suitablecontents.com/demoburger/1744376623373.webp",
-      "aliases": [
-        "brahma 1 litro",
-        "brahma 1l garrafa"
-      ]
-    },
-    "original 1l": {
-      "image": "https://suitablecontents.com/demoburger/1744376654992.webp",
-      "aliases": [
-        "original 1 litro",
-        "original 1l garrafa"
-      ]
-    },
-    "cerveja lata zero": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316704531.webp",
-      "aliases": [
-        "cerveja zero lata",
-        "lata zero",
-        "cerveja sem alcool lata",
-        "cerveja sem álcool lata"
-      ]
-    },
-    "cerveja latao schin": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316562470.webp",
-      "aliases": [
-        "cerveja latão schin",
-        "schin latao",
-        "schin latão",
-        "cerveja latão skin",
-        "cerveja latao skin"
-      ]
-    },
-    "cerveja latao polar": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316589546.webp",
-      "aliases": [
-        "cerveja latão polar",
-        "polar latao",
-        "polar latão"
-      ]
-    },
-    "cerveja latao skol": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316636859.webp",
-      "aliases": [
-        "cerveja latão skol",
-        "skol latao",
-        "skol latão"
-      ]
-    },
-    "cerveja latao heineken": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316658428.webp",
-      "aliases": [
-        "cerveja latão heineken",
-        "heineken latão",
-        "heineken latao"
-      ]
-    },
-    "long neck": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316678241.webp",
-      "aliases": [
-        "long",
-        "longneck",
-        "cerveja long neck"
-      ]
-    },
-    "cerveja litrao": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317104851.webp",
-      "aliases": [
-        "cerveja litrão",
-        "litrao",
-        "litrão",
-        "garrafa 1l cerveja"
-      ]
-    },
-    "cerveja litrao budweiser": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317122867.webp",
-      "aliases": [
-        "cerveja litrão budweiser",
-        "budweiser litrão",
-        "budweiser litrao"
-      ]
-    }
-  },
-  "chope": {
-    "chopp de vinho": {
-      "image": "https://suitablecontents.com/sagradobc/1772542313646.webp",
-      "aliases": [
-        "chope de vinho",
-        "chopp vinho"
-      ]
-    },
-    "chopp pilsen 400ml": {
-      "image": "https://suitablecontents.com/sagradobc/1772542299161.webp",
-      "aliases": [
-        "chope pilsen 400ml",
-        "chopp pilsen 400",
-        "pilsen 400ml"
-      ]
-    },
-    "chopp pilsen 600ml": {
-      "image": "https://suitablecontents.com/sagradobc/1772542283813.webp",
-      "aliases": [
-        "chope pilsen 600ml",
-        "chopp pilsen 600",
-        "pilsen 600ml"
-      ]
-    },
-    "chopp torre 3l": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316509979.webp",
-      "aliases": [
-        "chope torre 3l",
-        "torre 3l",
-        "chopp torre 3000ml"
-      ]
-    },
-    "chopp torre 2l": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316517816.webp",
-      "aliases": [
-        "chope torre 2l",
-        "torre 2l",
-        "chopp torre 2000ml"
-      ]
-    },
-    "chopp caneca": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316526180.webp",
-      "aliases": [
-        "chope caneca",
-        "caneca de chopp",
-        "caneca de chope"
-      ]
-    }
-  },
-  "energeticos": {
-    "red bull 250ml": {
-      "image": "https://suitablecontents.com/sagradobc/dghwd406831.webp",
-      "aliases": [
-        "red bull lata 250ml",
-        "red bull lata",
-        "energetico red bull lata",
-        "energético red bull lata",
-        "200 - red bull (250ml)",
-        "red bull 250",
-        "energetico red bull"
-      ]
-    },
-    "red bull latao": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316758859.webp",
-      "aliases": [
-        "energetico red bull latao",
-        "energético red bull latão",
-        "red bull latão",
-        "red bull latao"
-      ]
-    },
-    "monster 269ml": {
-      "image": "https://suitablecontents.com/sagradobc/n5krkoowva2.webp",
-      "aliases": [
-        "monster 269",
-        "monster lata 269ml",
-        "201 - monster (269ml)"
-      ]
-    },
-    "monster 473ml": {
-      "image": "https://suitablecontents.com/sagradobc/pwbni0f1fn3.webp",
-      "aliases": [
-        "monster 473",
-        "monster latão",
-        "monster latao",
-        "202 - monster (473ml)",
-        "energetico monster latao",
-        "energético monster latão"
-      ]
-    },
-    "gelo de coco": {
-      "image": "https://suitablecontents.com/sagradobc/y6pbv4xtib4.webp",
-      "aliases": [
-        "203 - gelo de coco"
-      ]
-    },
-    "energetico baly 2lts": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316731127.webp",
-      "aliases": [
-        "energético baly 2lts",
-        "baly 2lts",
-        "baly 2 litros",
-        "energetico baly 2 litros"
-      ]
-    }
-  },
-  "drinks": {
-    "gin tonica": {
-      "image": "https://suitablecontents.com/sagradobc/1772543679043.webp",
-      "aliases": [
-        "gin tônica",
-        "gin tonic",
-        "gin com tonica",
-        "gin com tônica"
-      ]
-    },
-    "gin tropical": {
-      "image": "https://suitablecontents.com/sagradobc/1772543745845.webp",
-      "aliases": [
-        "gin tropical laranja",
-        "stone light - gin tropical"
-      ]
-    },
-    "gin morango": {
-      "image": "https://suitablecontents.com/sagradobc/1772543756687.webp",
-      "aliases": [
-        "gin tônica morango"
-      ]
-    },
-    "caipira cachaca": {
-      "image": "https://suitablecontents.com/sagradobc/1772543801301.webp",
-      "aliases": [
-        "caipira cachaça",
-        "caipirinha",
-        "caipira",
-        "caipirinha cachaca",
-        "caipirinha cachaça"
-      ]
-    },
-    "caipira saquerinha": {
-      "image": "https://suitablecontents.com/sagradobc/1772543813713.webp",
-      "aliases": [
-        "caipisaque",
-        "caipisaquê",
-        "caipisake",
-        "caipisakê",
-        "caipirinha de saquê",
-        "caipirinha de sake",
-        "caipirinha de saquerinha"
-      ]
-    },
-    "caipira vodka": {
-      "image": "https://suitablecontents.com/sagradobc/1772543826112.webp",
-      "aliases": [
-        "caipivodka",
-        "caipira vodca",
-        "caipirinha de vodka"
-      ]
-    },
-    "caipira vinho": {
-      "image": "https://suitablecontents.com/sagradobc/1772543843215.webp",
-      "aliases": [
-        "caipivinho",
-        "caipira de vinho"
-      ]
-    },
-    "soda morango": {
-      "image": "https://suitablecontents.com/sagradobc/1772544146454.webp",
-      "aliases": [
-        "soda italiana morango"
-      ]
-    },
-    "soda limao siciliano": {
-      "image": "https://suitablecontents.com/sagradobc/1772544139540.webp",
-      "aliases": [
-        "soda limão siciliano",
-        "soda italiana limao siciliano",
-        "soda italiana limão siciliano"
-      ]
-    },
-    "soda maca verde": {
-      "image": "https://suitablecontents.com/sagradobc/1772544073481.webp",
-      "aliases": [
-        "soda maça verde",
-        "soda maçã verde",
-        "soda italiana maca verde",
-        "soda italiana maçã verde"
-      ]
-    },
-    "soda grenadine": {
-      "image": "https://suitablecontents.com/sagradobc/1772544123678.webp",
-      "aliases": [
-        "soda italiana grenadine"
-      ]
-    },
-    "moscow mule": {
-      "image": "https://suitablecontents.com/sagradobc/1772545430911.webp",
-      "aliases": []
-    },
-    "cuba libre": {
-      "image": "https://suitablecontents.com/sagradobc/1772545449675.webp",
-      "aliases": []
-    },
-    "mojito": {
-      "image": "https://suitablecontents.com/sagradobc/1772545514736.webp",
-      "aliases": [
-        "stone light - mojito",
-        "stone litht - mojito"
-      ]
-    },
-    "pina colada": {
-      "image": "https://suitablecontents.com/sagradobc/1772545540155.webp",
-      "aliases": [
-        "piña colada"
-      ]
-    },
-    "alexander": {
-      "image": "https://suitablecontents.com/sagradobc/1772545687001.webp",
-      "aliases": []
-    },
-    "sex on the beach": {
-      "image": "https://suitablecontents.com/sagradobc/1772545557473.webp",
-      "aliases": []
-    },
-    "negroni": {
-      "image": "https://suitablecontents.com/sagradobc/1772545570979.webp",
-      "aliases": [
-        "negroni classic"
-      ]
-    },
-    "aperol spritz": {
-      "image": "https://suitablecontents.com/sagradobc/1772545582653.webp",
-      "aliases": [
-        "aperol spritz"
-      ]
-    },
-    "lagoa azul": {
-      "image": "https://suitablecontents.com/sagradobc/1772545594503.webp",
-      "aliases": []
-    },
-    "ceu azul de balneario": {
-      "image": "https://suitablecontents.com/sagradobc/1772545607422.webp",
-      "aliases": [
-        "céu azul de balneário"
-      ]
-    },
-    "capeta morango": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316915813.webp",
-      "aliases": []
-    },
-    "capeta abacaxi": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317039503.webp",
-      "aliases": []
-    },
-    "smirnoff ice": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316888312.webp",
-      "aliases": []
-    }
-  },
-  "sucos": {
-    "suco laranja": {
-      "image": "https://suitablecontents.com/sagradobc/1772544231153.webp",
-      "aliases": [
-        "suco de laranja"
-      ]
-    },
-    "suco limao": {
-      "image": "https://suitablecontents.com/sagradobc/1772544251286.webp",
-      "aliases": [
-        "suco limão",
-        "suco de limão"
-      ]
-    },
-    "suco morango": {
-      "image": "https://suitablecontents.com/sagradobc/1772544285739.webp",
-      "aliases": [
-        "suco de morango"
-      ]
-    },
-    "suco maracuja": {
-      "image": "https://suitablecontents.com/sagradobc/1772544313847.webp",
-      "aliases": [
-        "suco maracujá",
-        "suco de maracujá"
-      ]
-    },
-    "suco abacaxi": {
-      "image": "https://suitablecontents.com/sagradobc/1772544346680.webp",
-      "aliases": [
-        "suco de abacaxi"
-      ]
-    }
-  },
-  "vodkas_e_doses": {
-    "smirnoff dose": {
-      "image": "https://suitablecontents.com/sagradobc/1772542932885.webp",
-      "aliases": [
-        "smirnoff - dose",
-        "dose de smirnoff"
-      ]
-    },
-    "smirnoff combo": {
-      "image": "https://suitablecontents.com/sagradobc/1772542987458.webp",
-      "aliases": [
-        "smirnoff - combo"
-      ]
-    },
-    "absolut dose": {
-      "image": "https://suitablecontents.com/sagradobc/1772543012862.webp",
-      "aliases": [
-        "absolut - dose",
-        "dose de absolut"
-      ]
-    },
-    "absolut combo": {
-      "image": "https://suitablecontents.com/sagradobc/1772543043808.webp",
-      "aliases": [
-        "absolut - combo"
-      ]
-    },
-    "grey goose dose": {
-      "image": "https://suitablecontents.com/sagradobc/1772543078397.webp",
-      "aliases": [
-        "grey goose - dose",
-        "dose de grey goose"
-      ]
-    },
-    "grey goose combo": {
-      "image": "https://suitablecontents.com/sagradobc/1772543139488.webp",
-      "aliases": [
-        "grey goose - combo"
-      ]
-    },
-    "whiski dose": {
-      "image": "https://suitablecontents.com/pointaguasclaras/9j7gocyj6v24.webp",
-      "aliases": [
-        "whisky dose",
-        "whiski dose",
-        "dose de whisky",
-        "dose de whiski"
-      ]
-    },
-    "whiski": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316825581.webp",
-      "aliases": [
-        "whisky",
-        "garrafa de whisky",
-        "garrafa de whiski"
-      ]
-    }
-  },
-  "pratos": {
-    "bife a parmegiana": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773318704925.webp",
-      "aliases": [
-        "bife à parmegiana"
-      ]
-    },
-    "bife com fritas": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773318741072.webp",
-      "aliases": []
-    },
-    "a milanesa": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773318775870.webp",
-      "aliases": [
-        "à milanesa"
-      ]
-    },
-    "prato feito": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773318796016.webp",
-      "aliases": [
-        "pf",
-        "prato-feito"
-      ]
-    },
-    "prato feito a milanesa": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773318804154.webp",
-      "aliases": [
-        "prato feito à milanesa"
-      ]
-    },
-    "prato feito peixe": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773318826605.webp",
-      "aliases": [
-        "prato feito de peixe"
-      ]
-    }
-  },
-  "fritas": {
-    "torre de batata": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773248255054.webp",
-      "aliases": []
-    },
-    "fritas sem queijo": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317253103.webp",
-      "aliases": [
-        "batata frita",
-        "porcao de batata frita",
-        "porção de batata frita",
-        "batata frita simples"
-      ]
-    },
-    "fritas com queijo": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317338995.webp",
-      "aliases": [
-        "batata frita com queijo"
-      ]
-    },
-    "1/2 porcao com queijo": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317349436.webp",
-      "aliases": [
-        "1/2 porção com queijo",
-        "meia porcao com queijo",
-        "meia porção com queijo"
-      ]
-    },
-    "porcao de fritas": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317384393.webp",
-      "aliases": [
-        "porção de fritas",
-        "fritas cheddar e bacon 300g"
-      ]
-    },
-    "1/2 porcao de fritas": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317395873.webp",
-      "aliases": [
-        "1/2 porção de fritas",
-        "meia porcao de fritas",
-        "meia porção de fritas"
-      ]
-    },
-    "batata mix": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317406663.webp",
-      "aliases": []
-    },
-    "fritas p": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317427747.webp",
-      "aliases": [
-        "batata p",
-        "fritas pequena"
-      ]
-    },
-    "fritas p com queijo": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317451404.webp",
-      "aliases": [
-        "batata p com queijo",
-        "fritas pequena com queijo",
-        "fritas no xis com queijo"
-      ]
-    },
-    "fritas no xis": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773317427747.webp",
-      "aliases": [
-        "fritaas no xis",
-        "batata no xis"
-      ]
-    }
-  },
-  "xis": {
-    "xis carne": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315453070.webp",
-      "aliases": []
-    },
-    "xis frango": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315466267.webp",
-      "aliases": []
-    },
-    "xis calabresa": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315483411.webp",
-      "aliases": []
-    },
-    "xis bacon": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315424058.webp",
-      "aliases": []
-    },
-    "xis quatro queijos": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315532114.webp",
-      "aliases": [
-        "xis 4 queijos"
-      ]
-    },
-    "xis lombo": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315558553.webp",
-      "aliases": []
-    },
-    "xis vegetariano": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315608690.webp",
-      "aliases": []
-    },
-    "xis coracao": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315646986.webp",
-      "aliases": [
-        "xis coração"
-      ]
-    },
-    "xis bagunca": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315703181.webp",
-      "aliases": [
-        "xis bagunça"
-      ]
-    },
-    "xis strogonoff": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315723114.webp",
-      "aliases": []
-    },
-    "xis picanha": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315749588.webp",
-      "aliases": []
-    },
-    "xis fricasse": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315834289.webp",
-      "aliases": [
-        "xis fricassê"
-      ]
-    },
-    "xis file": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315873970.webp",
-      "aliases": [
-        "xis filé"
-      ]
-    },
-    "file ao molho madeira": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315931220.webp",
-      "aliases": [
-        "filé ao molho madeira"
-      ]
-    },
-    "file acebolado": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773315951107.webp",
-      "aliases": [
-        "filé acebolado"
-      ]
-    },
-    "xis baguncao": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316006768.webp",
-      "aliases": [
-        "xis bagunção"
-      ]
-    },
-    "xis acebolado": {
-      "image": "https://suitablecontents.com/pointaguasclaras/1773316087518.webp",
-      "aliases": []
-    }
-  },
-  "burgers": {
-    "bacon": {
-      "image": "https://suitablecontents.com/sagradobc/yuihbs3e8q2.webp",
-      "aliases": []
-    },
-    "cebola caramelizada": {
-      "image": "https://suitablecontents.com/sagradobc/q14oq2lxdt5.webp",
-      "aliases": []
-    },
-    "hamburguer extra": {
-      "image": "https://suitablecontents.com/sagradobc/dds2bjqghg1.webp",
-      "aliases": [
-        "hambúrguer extra"
-      ]
-    },
-    "molho extra": {
-      "image": "https://suitablecontents.com/sagradobc/icnu3k3z5a6.webp",
-      "aliases": []
-    },
-    "queijo cheddar": {
-      "image": "https://suitablecontents.com/sagradobc/vsk2050nnv3.webp",
-      "aliases": [
-        "cheddar",
-        "queijo chedar"
-      ]
-    },
-    "queijo mussarela": {
-      "image": "https://suitablecontents.com/sagradobc/tg8uke5te94.webp",
-      "aliases": [
-        "mussarela",
-        "muçarela",
-        "queijo muçarela"
-      ]
-    }
-  },
-  "complementos": {
-    "alface": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122646797.webp",
-      "aliases": []
-    },
-    "anel de cebola": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122659933.webp",
-      "aliases": [
-        "aneis de cebola",
-        "anéis de cebola",
-        "anel cebola"
-      ]
-    },
-    "bacon": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122670779.webp",
-      "aliases": []
-    },
-    "brocolis": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122684448.webp",
-      "aliases": [
-        "brócolis"
-      ]
-    },
-    "calabresa": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122694425.webp",
-      "aliases": []
-    },
-    "carne": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122710016.webp",
-      "aliases": [
-        "hamburguer",
-        "hambúrguer",
-        "hamburger"
-      ]
-    },
-    "catupiry": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122718551.webp",
-      "aliases": []
-    },
-    "cebola roxa": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122726639.webp",
-      "aliases": []
-    },
-    "cheddar": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122734605.webp",
-      "aliases": [
-        "queijo cheddar"
-      ]
-    },
-    "costela": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122748525.webp",
-      "aliases": []
-    },
-    "frango": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122768975.webp",
-      "aliases": []
-    },
-    "maionese": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122800669.webp",
-      "aliases": [
-        "maionese extra"
-      ]
-    },
-    "ketchup": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122810093.webp",
-      "aliases": [
-        "catchup"
-      ]
-    },
-    "mostarda": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122830497.webp",
-      "aliases": []
-    },
-    "ovo": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122838160.webp",
-      "aliases": []
-    },
-    "tomate": {
-      "image": "https://suitablecontents.com/custelaburguerhouse/1772122846566.webp",
-      "aliases": []
-    }
-  },
-  "regras": {
-    "dose_default": "https://suitablecontents.com/sagradobc/1772542932885.webp",
-    "shot_default": "https://suitablecontents.com/sagradobc/1772542932885.webp"
-  }
-}
+}  

@@ -1,0 +1,878 @@
+[
+    {
+        "name": "Bebidas (Cópia)",
+        "details": "Bebidas",
+        "color": "#f44336",
+        "open": false,
+        "type": "Normal",
+        "order": 38,
+        "image": "",
+        "show_in": {
+            "app": true,
+            "waiter": true,
+            "pdv": true,
+            "selfcheckout": true,
+            "tablet": true,
+            "totem": true
+        },
+        "availability": [],
+        "products": [
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bebidas (Cópia)",
+        "details": "Bebidas",
+        "color": "#f44336",
+        "open": false,
+        "type": "Normal",
+        "order": 38,
+        "image": "",
+        "show_in": {
+            "app": true,
+            "waiter": true,
+            "pdv": true,
+            "selfcheckout": true,
+            "tablet": true,
+            "totem": true
+        },
+        "availability": [],
+        "products": [
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bebidas (Cópia)",
+        "details": "Bebidas",
+        "color": "#f44336",
+        "open": false,
+        "type": "Normal",
+        "order": 38,
+        "image": "",
+        "show_in": {
+            "app": true,
+            "waiter": true,
+            "pdv": true,
+            "selfcheckout": true,
+            "tablet": true,
+            "totem": true
+        },
+        "availability": [],
+        "products": [
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coca 1lt ",
+                "category": "Bebidas (Cópia)",
+                "details": null,
+                "price": 9,
+                "code": null,
+                "tax_profile": "Refeições",
+                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
+                "manage_stock": false,
+                "sell_by_weight": false,
+                "order": 1,
+                "show_in": {
+                    "app": true,
+                    "waiter": true,
+                    "pdv": true,
+                    "selfcheckout": true,
+                    "tablet": true,
+                    "totem": true
+                },
+                "restrictions": {
+                    "alcohol": false,
+                    "gluten": false,
+                    "lactose": false,
+                    "organic": false,
+                    "spicy": false,
+                    "sugar_free": false,
+                    "vegan": false,
+                    "vegetarian": false
+                },
+                "availability": [],
+                "complements": [
+                    {
+                        "name": "ESCOLHA O SABOR",
+                        "details": "ESCOLHA O SABOR",
+                        "min": 1,
+                        "max": 1,
+                        "is_ingredients": false,
+                        "allow_repeat": false,
+                        "order": 0,
+                        "show_in": {
+                            "app": true,
+                            "waiter": true,
+                            "pdv": true,
+                            "selfcheckout": true,
+                            "tablet": true,
+                            "totem": true
+                        },
+                        "items": [
+                            {
+                                "name": "coca cola lata",
+                                "details": "",
+                                "price": "0.00",
+                                "default": 0,
+                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
+                                "order": 0,
+                                "show_in": {
+                                    "app": true,
+                                    "waiter": true,
+                                    "pdv": true,
+                                    "selfcheckout": true,
+                                    "tablet": true,
+                                    "totem": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

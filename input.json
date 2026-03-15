@@ -1,10 +1,11 @@
-{
-    "name": "DRINKS (Cópia)",
-    "details": "",
-    "color": "#ff5722",
-    "open": true,
+[
+    {
+    "name": "Bebidas (Cópia)",
+    "details": "Bebidas",
+    "color": "#f44336",
+    "open": false,
     "type": "Normal",
-    "order": 258,
+    "order": 38,
     "image": "",
     "show_in": {
         "app": true,
@@ -17,10 +18,10 @@
     "availability": [],
     "products": [
         {
-            "name": "VANFAL FRUTAS VERMELHAS",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 22.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
@@ -46,19 +47,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "STONE LIGHT - PINK LEMONADE",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 22.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 2,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -78,19 +115,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "STONE LIGHT - PINK LEMONADE 0%",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 14.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 3,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -110,19 +183,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "STONE LIGHT - GIN TROPICAL",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 22.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 4,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -142,19 +251,75 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
-        },
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Bebidas (Cópia)",
+    "details": "Bebidas",
+    "color": "#f44336",
+    "open": false,
+    "type": "Normal",
+    "order": 38,
+    "image": "",
+    "show_in": {
+        "app": true,
+        "waiter": true,
+        "pdv": true,
+        "selfcheckout": true,
+        "tablet": true,
+        "totem": true
+    },
+    "availability": [],
+    "products": [
         {
-            "name": "STONE LITHT - MOJITO",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 22.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 5,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -174,19 +339,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "APEROL SPRITZ",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 32.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 6,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -206,19 +407,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "CAIPIRINHA",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 24.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 7,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -238,19 +475,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "CAIPIVODKA",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 29.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 8,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -270,19 +543,75 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
-        },
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "name": "Bebidas (Cópia)",
+    "details": "Bebidas",
+    "color": "#f44336",
+    "open": false,
+    "type": "Normal",
+    "order": 38,
+    "image": "",
+    "show_in": {
+        "app": true,
+        "waiter": true,
+        "pdv": true,
+        "selfcheckout": true,
+        "tablet": true,
+        "totem": true
+    },
+    "availability": [],
+    "products": [
         {
-            "name": "GIN TÔNICA",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 29.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 9,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -302,19 +631,55 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "GIN COM ENERGETICO",
-            "category": "DRINKS (Cópia)",
-            "details": "",
-            "price": 31.9,
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
             "code": null,
             "tax_profile": "Refeições",
             "image": "",
             "manage_stock": false,
             "sell_by_weight": false,
-            "order": 10,
+            "order": 1,
             "show_in": {
                 "app": true,
                 "waiter": true,
@@ -334,7 +699,180 @@
                 "vegetarian": false
             },
             "availability": [],
-            "complements": []
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 1,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Coca 1lt ",
+            "category": "Bebidas (Cópia)",
+            "details": null,
+            "price": 9,
+            "code": null,
+            "tax_profile": "Refeições",
+            "image": "",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 1,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": [
+                {
+                    "name": "ESCOLHA O SABOR",
+                    "details": "ESCOLHA O SABOR",
+                    "min": 1,
+                    "max": 1,
+                    "is_ingredients": false,
+                    "allow_repeat": false,
+                    "order": 0,
+                    "show_in": {
+                        "app": true,
+                        "waiter": true,
+                        "pdv": true,
+                        "selfcheckout": true,
+                        "tablet": true,
+                        "totem": true
+                    },
+                    "items": [
+                        {
+                            "name": "coca cola lata",
+                            "details": "",
+                            "price": "0.00",
+                            "default": 0,
+                            "image": "",
+                            "order": 0,
+                            "show_in": {
+                                "app": true,
+                                "waiter": true,
+                                "pdv": true,
+                                "selfcheckout": true,
+                                "tablet": true,
+                                "totem": true
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
+]
