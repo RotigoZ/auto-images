@@ -1,5 +1,6 @@
 import json
 import unicodedata
+from sys_insert import inserir_sistema
 
 def main():
 
@@ -109,8 +110,9 @@ def salvar_json(cardapio_atualizado):
     with open("output.json", 'w', encoding='utf-8') as arquivo_saida:
         json.dump(cardapio_atualizado, arquivo_saida, ensure_ascii=False, indent=4)
 
-    print(f"Sucesso! O arquivo 'output.json' foi gerado e está pronto para importação.")
+    print("Arquivo local salvo em output.json")
 
+    inserir_sistema()
 
 if __name__ == "__main__":
     main()
