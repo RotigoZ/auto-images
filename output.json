@@ -1,878 +1,532 @@
-[
-    {
-        "name": "Bebidas (Cópia)",
-        "details": "Bebidas",
-        "color": "#f44336",
-        "open": false,
-        "type": "Normal",
-        "order": 38,
-        "image": "",
-        "show_in": {
-            "app": true,
-            "waiter": true,
-            "pdv": true,
-            "selfcheckout": true,
-            "tablet": true,
-            "totem": true
-        },
-        "availability": [],
-        "products": [
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
+{
+    "name": "Cervejas Teste",
+    "details": "Categoria para teste de imagens automaticas",
+    "color": "#00bcd4",
+    "open": true,
+    "type": "Normal",
+    "order": 999,
+    "image": "",
+    "show_in": {
+        "app": true,
+        "waiter": true,
+        "pdv": true,
+        "selfcheckout": true,
+        "tablet": true,
+        "totem": true
     },
-    {
-        "name": "Bebidas (Cópia)",
-        "details": "Bebidas",
-        "color": "#f44336",
-        "open": false,
-        "type": "Normal",
-        "order": 38,
-        "image": "",
-        "show_in": {
-            "app": true,
-            "waiter": true,
-            "pdv": true,
-            "selfcheckout": true,
-            "tablet": true,
-            "totem": true
+    "availability": [],
+    "products": [
+        {
+            "name": "Brahma 473ml",
+            "category": "Cervejas Teste",
+            "details": "Brahma Lata 473ml",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767187964923.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 1,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
         },
-        "availability": [],
-        "products": [
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
+        {
+            "name": "Brahma Longneck",
+            "category": "Cervejas Teste",
+            "details": "Brahma Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767188137738.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 2,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
             },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
             },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Bebidas (Cópia)",
-        "details": "Bebidas",
-        "color": "#f44336",
-        "open": false,
-        "type": "Normal",
-        "order": 38,
-        "image": "",
-        "show_in": {
-            "app": true,
-            "waiter": true,
-            "pdv": true,
-            "selfcheckout": true,
-            "tablet": true,
-            "totem": true
+            "availability": [],
+            "complements": []
         },
-        "availability": [],
-        "products": [
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
+        {
+            "name": "Heineken Long Neck",
+            "category": "Cervejas Teste",
+            "details": "Heineken Long Neck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/sagradobc/1sxl1jk1y52.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 3,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
             },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
             },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Heineken Zero Longneck",
+            "category": "Cervejas Teste",
+            "details": "Heineken Zero Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/sagradobc/nto2y6kobl3.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 4,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
             },
-            {
-                "name": "Coca 1lt ",
-                "category": "Bebidas (Cópia)",
-                "details": null,
-                "price": 9,
-                "code": null,
-                "tax_profile": "Refeições",
-                "image": "https://suitablecontents.com/demoburger/1744376290980.webp",
-                "manage_stock": false,
-                "sell_by_weight": false,
-                "order": 1,
-                "show_in": {
-                    "app": true,
-                    "waiter": true,
-                    "pdv": true,
-                    "selfcheckout": true,
-                    "tablet": true,
-                    "totem": true
-                },
-                "restrictions": {
-                    "alcohol": false,
-                    "gluten": false,
-                    "lactose": false,
-                    "organic": false,
-                    "spicy": false,
-                    "sugar_free": false,
-                    "vegan": false,
-                    "vegetarian": false
-                },
-                "availability": [],
-                "complements": [
-                    {
-                        "name": "ESCOLHA O SABOR",
-                        "details": "ESCOLHA O SABOR",
-                        "min": 1,
-                        "max": 1,
-                        "is_ingredients": false,
-                        "allow_repeat": false,
-                        "order": 0,
-                        "show_in": {
-                            "app": true,
-                            "waiter": true,
-                            "pdv": true,
-                            "selfcheckout": true,
-                            "tablet": true,
-                            "totem": true
-                        },
-                        "items": [
-                            {
-                                "name": "coca cola lata",
-                                "details": "",
-                                "price": "0.00",
-                                "default": 0,
-                                "image": "https://suitablecontents.com/demoburger/1744375959245.webp",
-                                "order": 0,
-                                "show_in": {
-                                    "app": true,
-                                    "waiter": true,
-                                    "pdv": true,
-                                    "selfcheckout": true,
-                                    "tablet": true,
-                                    "totem": true
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
-]
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Skol 473ml",
+            "category": "Cervejas Teste",
+            "details": "Skol 473ml",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767188489247.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 5,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Amstel Ultra",
+            "category": "Cervejas Teste",
+            "details": "Amstel Ultra",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767188698222.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 6,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Budweiser Longneck",
+            "category": "Cervejas Teste",
+            "details": "Budweiser Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/demoburger/1744376582846.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 7,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Itaipava Longneck",
+            "category": "Cervejas Teste",
+            "details": "Itaipava Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767189201938.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 8,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Eisenbahn 600ml",
+            "category": "Cervejas Teste",
+            "details": "Eisenbahn 600ml",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/sagradobc/1772542691262.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 9,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Stella Longneck",
+            "category": "Cervejas Teste",
+            "details": "Stella Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/wvlanches/1773662178422.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 10,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Corona Longneck",
+            "category": "Cervejas Teste",
+            "details": "Corona Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/sagradobc/5hsz4nt3g41.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 11,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Corona Zero Longneck",
+            "category": "Cervejas Teste",
+            "details": "Corona Zero Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767189802088.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 12,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Sol Longneck",
+            "category": "Cervejas Teste",
+            "details": "Sol Longneck",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/sagradobc/ey5rk994p25.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 13,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Schin 473ml",
+            "category": "Cervejas Teste",
+            "details": "Schin 473ml",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767190136419.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 14,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Polar 473ml",
+            "category": "Cervejas Teste",
+            "details": "Polar 473ml",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767190225077.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 15,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        },
+        {
+            "name": "Spaten 600ml",
+            "category": "Cervejas Teste",
+            "details": "Spaten 600ml",
+            "price": 0,
+            "code": null,
+            "tax_profile": "Cervejas",
+            "image": "https://suitablecontents.com/democardapio/1767190272920.webp",
+            "manage_stock": false,
+            "sell_by_weight": false,
+            "order": 16,
+            "show_in": {
+                "app": true,
+                "waiter": true,
+                "pdv": true,
+                "selfcheckout": true,
+                "tablet": true,
+                "totem": true
+            },
+            "restrictions": {
+                "alcohol": false,
+                "gluten": false,
+                "lactose": false,
+                "organic": false,
+                "spicy": false,
+                "sugar_free": false,
+                "vegan": false,
+                "vegetarian": false
+            },
+            "availability": [],
+            "complements": []
+        }
+    ]
+}
