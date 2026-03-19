@@ -16,6 +16,7 @@ Fluxo:
 ## Divisao de arquivos
 
 - `converter.py` -> Logica de conversao.
+- `sys_insert.py` -> Funcao para inserir no sistema as categorias do `output.json`.
 - `database.json` -> Local onde sao salvos os links das imagens dos produtos/complementos.
 - `input.json` -> Local onde sao inseridas as categorias sem imagens.
 - `output.json` -> Saida das categorias com imagens.
@@ -83,3 +84,35 @@ Cada categoria pode conter `products`, e cada produto pode conter `complements` 
 - A busca ignora diferencas de acentos e maiusculas/minusculas.
 - Se nao encontrar imagem para um item, o campo `image` nao e adicionado para ele.
 - O script ignora a chave `regras` dentro do `database.json`.
+
+## Envio direto para o sistema (`inserir_sistema`)
+
+Agora o projeto tambem possui a funcao `inserir_sistema()` no arquivo `sys_insert.py`.
+
+Ela autentica no sistema usando o usuario `suporte` e envia o conteudo do `output.json` para o endpoint de importacao de categorias.
+
+Para funcionar, voce precisa:
+
+1. Ter o arquivo `output.json` ja gerado.
+2. Criar um arquivo `.env` na raiz do projeto com:
+
+```env
+SLUG_RESTAURANTE=seu_slug
+SENHA=sua_senha
+```
+
+3. Instalar as dependencias necessarias para esse envio:
+
+```bash
+pip install requests python-dotenv
+```
+
+4. Chamar a funcao `inserir_sistema()` (por exemplo, em um script Python):
+
+```python
+from sys_insert import inserir_sistema
+
+inserir_sistema()
+```
+
+Se `SLUG_RESTAURANTE` ou `SENHA` nao estiverem preenchidos, o envio nao sera executado.
